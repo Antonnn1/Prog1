@@ -10,10 +10,21 @@ namespace SwitchSatser
     {
         static void Main(string[] args)
         {
+            /*
             //Övning1
+            Console.Write("Mata in ett heltal: ");
             int tal = int.Parse(Console.ReadLine());
 
-            //Övning2
+            switch (tal)
+            {
+                case 1: Console.WriteLine("Ett");                  break;
+                case 2: Console.WriteLine("Två");                  break;
+                case 3: Console.WriteLine("Tre");                  break;
+                case 4: Console.WriteLine("Fyra");                 break;
+                default: Console.WriteLine("Ogiltigt alternativ"); break;
+            }
+            */
+
         }
     }
 }
