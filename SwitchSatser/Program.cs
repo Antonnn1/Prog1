@@ -12,6 +12,8 @@ namespace SwitchSatser
         {
             //Övning1
             int tal = int.Parse(Console.ReadLine());
+
+            //Övning2
         }
     }
 }
