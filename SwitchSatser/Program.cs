@@ -10,6 +10,8 @@ namespace SwitchSatser
     {
         static void Main(string[] args)
         {
+            //Övning1
+            int tal = int.Parse(Console.ReadLine());
         }
     }
 }
