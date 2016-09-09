@@ -24,7 +24,20 @@ namespace SwitchSatser
                 default: Console.WriteLine("Ogiltigt alternativ"); break;
             }
             */
+            /*
+            //Övning2
+            Console.WriteLine("Skriv N,S,E eller W");
+            string väderStreck = Console.ReadLine();
 
+            switch (väderStreck)
+            {
+                case "N": Console.WriteLine("You walk north");    break;
+                case "S": Console.WriteLine("You travel south");  break;
+                case "E": Console.WriteLine("You wander east");   break;
+                case "W": Console.WriteLine("You stroll west");   break;
+                default: Console.WriteLine("I don't understand"); break;
+            }
+            */
         }
     }
 }
